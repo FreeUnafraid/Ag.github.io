@@ -2,4 +2,7 @@
 
 这里将不定期上传一些实用工具，敬请期待～
 
-[Download](https://www.bilibili.com/video/BV1WL41177q8/?share_source=copy_web)
+## FastTerminal(FasT)
+
+可作为代替原生终端的实用工具
+GitHub:[FasT](https://github.com/FreeUnafraid/useful_tools)
